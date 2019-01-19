@@ -4,5 +4,5 @@
 "update_link": "https://dl.dropboxusercontent.com/s/zpmakgfphz9k2ij/one_player_303.apk",  
 "update_content": "Please update One Player for better experience",  
 "update_title":"Update new version",  
-"update_force":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio."
+"update_force": true
 }
