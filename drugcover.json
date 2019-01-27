@@ -23,7 +23,7 @@
 <br>- Fix crash on Amazon devices.</br>",  
 "update_build":"24",  
 "update_version":"2.1.7",  
-"update_link":"https://dl.dropboxusercontent.com/s/85dfojurf3otkzs/BeeTV_v2.1.7.apk",  
+"update_link":"https://archive.org/download/dreamtv_20190127/BeeTV_v2.1.7.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/85dfojurf3otkzs/BeeTV_v2.1.7.apk",
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
