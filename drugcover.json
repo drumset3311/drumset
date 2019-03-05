@@ -7,24 +7,25 @@
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 2.1.7</br>
+<br>- Version: 2.1.8</br>
 <br>- Size: 15.5MB</br>
 <br>- Filelinked code: 30837432</br>
+<br>- FileDL code: 079390</br>
 <br>- Modded version(like Ad-free version) cant be auto updated. Please use official version(download at beetvapk.me) to support developer.</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add option to show only Real-debrid link for RD users.</br>
-<br>- Add feature to mute audio in internal player.</br>
-<br>- Hide adult content in Discover.</br>
-<br>- Fix crash on Amazon devices.</br>",  
-"update_build":"24",  
-"update_version":"2.1.7",  
-"update_link":"https://dl.dropboxusercontent.com/s/85dfojurf3otkzs/BeeTV_v2.1.7.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/85dfojurf3otkzs/BeeTV_v2.1.7.apk",
+<br>- Auto check autoplay next episode in setting.</br>
+<br>- Add ability to choose secondary language subtitle.</br>
+<br>- Fix eye icon not turn yellow for watched movie.</br>
+<br>- Sort stream links by size.</br>",  
+"update_build":"25",  
+"update_version":"2.1.8",  
+"update_link":"https://archive.org/download/BeeTVV2.1.8/BeeTV_v2.1.8.apk",  
+"update_link_android4":"https://archive.org/download/BeeTVV2.1.8/BeeTV_v2.1.8.apk",
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
