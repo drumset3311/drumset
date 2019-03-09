@@ -10,12 +10,13 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"<b>Release Info</b>
+"update_content":"If you cant update, please go to beetvapk.me or use filelinked code below to download latest version
+<br></br>
+<b>Release Info</b>
 <br>- Version: 2.1.9</br>
 <br>- Size: 15.3MB</br>
 <br>- Filelinked code: 30837432</br>
 <br>- FileDL code: 990105</br>
-<br>- Modded version(like Ad-free version) cant be auto updated. Please use official version(download at beetvapk.me) to support developer.</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix subtitle download failed on some Android 5.0 and lower devices.</br>
