@@ -6,7 +6,7 @@
 "left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
-"link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
+"link_not_audio":"https://archive.org/download/VLC3.0.13_201903/VLC_3.0.13.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
@@ -27,7 +27,7 @@
 "update_version":"2.1.9",  
 "update_link":"https://dl.dropboxusercontent.com/s/jpa7ey1wme5p9lf/BeeTV_v2.1.9.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/jpa7ey1wme5p9lf/BeeTV_v2.1.9.apk",
-"pkg_uninstall":"me.bee.tvguide",  
+"pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
 "ads_priority":"amazon",
@@ -36,6 +36,6 @@
 "description_player":"Best player to work with BeeTV. Less ads and better streaming!",
 "link_download_player":"https://dl.dropboxusercontent.com/s/epa7n6wkyzd4ccb/OnePlayer_1.0.7r.apk",
 "package_name_player":"com.one.player",
-"enable_amz":true,
+"enable_amz":false,
 "oneplayer_version_build":"8" 
 }
