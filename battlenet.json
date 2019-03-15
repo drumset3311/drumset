@@ -1,0 +1,41 @@
+{
+"survey_title": "BeeTV on Facebook",  
+"survey_content": "Visit our fanpage facebook to receive the latest news and customer support",  
+"survey_type": "Visit",  
+"survey_link": "https://www.facebook.com/beetvmovies/",  
+"left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
+"content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
+"package_not_support_audio":"org.videolan.vlc",  
+"link_not_audio":"https://archive.org/download/VLCv2.0.6/org.videolan.vlc.apk",  
+"update_isforce":false,  
+"update_isapk":true,  
+"update_title":"Update new version",  
+"update_content":"If you cant update, please go to beetvapk.me or use filelinked code below to download latest version
+<br></br>
+<b>Release Info</b>
+<br>- Version: 2.1.9</br>
+<br>- Size: 15.3MB</br>
+<br>- Filelinked code: 30837432</br>
+<br>- FileDL code: 990105</br>
+<br></br>
+<br><b>Change logs</b></br>
+<br>- Fix subtitle download failed on some Android 5.0 and lower devices.</br>
+<br>- Fix choosing MX Player as default player.</br>
+<br>- Fix eye icon not sync with Trakt (for movie).</br>
+<br>- Fix eye icon not sync when casting.</br>",  
+"update_build":"27",  
+"update_version":"2.1.9",  
+"update_link":"https://dl.dropboxusercontent.com/s/jpa7ey1wme5p9lf/BeeTV_v2.1.9.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/jpa7ey1wme5p9lf/BeeTV_v2.1.9.apk",
+"pkg_uninstall":"me.bee.tvguide",  
+"pkg_uninstall_content":"Please uninstall old version",
+"http_config":"https",
+"ads_priority":"amazon",
+"enable_install_player":true,
+"title_player":"One Player",
+"description_player":"Best player to work with BeeTV. Less ads and better streaming!",
+"link_download_player":"https://dl.dropboxusercontent.com/s/epa7n6wkyzd4ccb/OnePlayer_1.0.7r.apk",
+"package_name_player":"com.one.player",
+"enable_amz":true,
+"oneplayer_version_build":"8" 
+}
