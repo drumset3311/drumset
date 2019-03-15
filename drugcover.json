@@ -10,23 +10,23 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"If you cant update, please go to beetvapk.me or use filelinked code below to download latest version
-<br></br>
-<b>Release Info</b>
-<br>- Version: 2.1.9</br>
-<br>- Size: 15.3MB</br>
+"update_content":"If you cant update, please go to beetvapk.me or use filelinked code below to download latest version.
+<p>
+<b><font color="#FF6D00">Release Info</font></b>
+<br>- Version: 2.2.0</br>
+<br>- Size: 16.2MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FileDL code: 990105</br>
+<br>- FileDL code: 208443</br>
 <br></br>
-<br><b>Change logs</b></br>
-<br>- Fix subtitle download failed on some Android 5.0 and lower devices.</br>
-<br>- Fix choosing MX Player as default player.</br>
-<br>- Fix eye icon not sync with Trakt (for movie).</br>
-<br>- Fix eye icon not sync when casting.</br>",  
-"update_build":"27",  
-"update_version":"2.1.9",  
-"update_link":"https://dl.dropboxusercontent.com/s/jpa7ey1wme5p9lf/BeeTV_v2.1.9.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/jpa7ey1wme5p9lf/BeeTV_v2.1.9.apk",
+<br><b><font color="#FF6D00">Change logs</font></b></br>
+<br>- Add option to start over/resume.</br>
+<br>- Add several Google Video link providers.</br>
+<br>- Add several Real-debrid link providers.</br>
+<br>- Improve subtitle text look.</br>",  
+"update_build":"28",  
+"update_version":"2.2.0",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.0/BeeTV_v2.2.0.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/edu6fj0tdf7ivug/BeeTV_v2.2.0.apk",
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
