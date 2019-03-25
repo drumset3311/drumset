@@ -8,7 +8,7 @@
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLC3.0.13_201903/VLC_3.0.13.apk",  
 "update_isforce":false,  
-"update_isapk":false,  
+"update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"After update, please uninstall old version. You may need to restore your watchlist in setting. Sorry for the inconvenience!
 <br></br>
