@@ -36,6 +36,5 @@
 "link_download_player":"https://dl.dropboxusercontent.com/s/epa7n6wkyzd4ccb/OnePlayer_1.0.7r.apk",
 "package_name_player":"com.one.player",
 "enable_amz":true,
-"oneplayer_version_build":"8",
-"collection":"{"info": [ { "id": "", "list_id": 92588, "type": "themoviedb", "name": "WWE & UFC PPV" }, { "id": "", "list_id": 105194, "type": "themoviedb", "name": "Netflix Shows" }, { "id": "", "list_id": 105210, "type": "themoviedb", "name": "HBO Shows" }, { "id": "", "list_id": 105211, "type": "themoviedb", "name": "FX Shows" }, { "id": "", "list_id": 105212, "type": "themoviedb", "name": "CBS Shows" },  { "id": "", "list_id": 105214, "type": "themoviedb", "name": "BBC America Shows" }, { "id": "", "list_id": 105213, "type": "themoviedb", "name": "Showtime" }, { "id": "", "list_id": 105216, "type": "themoviedb", "name": "NBC Shows" }, { "id": "", "list_id": 105201, "type": "themoviedb", "name": "Amazon Shows" },{ "id": "", "list_id": 105217, "type": "themoviedb", "name": "BBC One Shows" }, { "id": "", "list_id": 105197, "type": "themoviedb", "name": "Hulu Shows" }] }"
+"oneplayer_version_build":"8"
 }
