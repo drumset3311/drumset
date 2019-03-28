@@ -13,19 +13,22 @@
 "update_content":"After update, please uninstall old version. You may need to restore your watchlist in setting. Sorry for the inconvenience!
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.2.1</br>
+<br>- Version: 2.2.2</br>
 <br>- Size: 16.2MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FileDL code: 725927</br>
+<br>- FileDL code: 454608</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix app not loading on Android 4.4 and lower devices.</br>
-<br>- Add option to hide poster, name and year.</br>
-<br>- Fix some link providers.</br>",  
-"update_build":"29",  
-"update_version":"2.2.1",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.1/BeeTV_v2.2.1.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/txnalbiutd7imdh/BeeTV_v2.2.1.apk",
+<br>- Optimize UI on TV.</br>
+<br>- Add Editors' Choice section.</br>
+<br>- Fix bug crash on some devices.</br>
+<br>- Add clock and off subtitle feature on internal player.</br>
+<br>- Optimize code for faster link resolve.</br>
+<br>- Add direct/cdn link providers.</br>",  
+"update_build":"30",  
+"update_version":"2.2.2",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.2/BeeTV_v2.2.2.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/xn2ashw77m48por/BeeTV_v2.2.2.apk",
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
