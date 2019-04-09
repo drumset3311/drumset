@@ -36,8 +36,8 @@
 "enable_install_player":true,
 "title_player":"One Player",
 "description_player":"Best player to work with BeeTV. Less ads and better streaming!",
-"link_download_player":"https://dl.dropboxusercontent.com/s/epa7n6wkyzd4ccb/OnePlayer_1.0.7r.apk",
+"link_download_player":"https://dl.dropboxusercontent.com/s/7tqd4zn48mscamd/OnePlayer_v1.0.8r.apk",
 "package_name_player":"com.one.player",
 "enable_amz":true,
-"oneplayer_version_build":"8" 
+"oneplayer_version_build":"9" 
 }
