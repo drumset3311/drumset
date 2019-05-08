@@ -7,28 +7,26 @@
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLC3.0.13_201903/VLC_3.0.13.apk",  
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"After update, please uninstall old version. You may need to restore your watchlist in setting. Sorry for the inconvenience!
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.2.3</br>
+<br>- Version: 2.2.4</br>
 <br>- Size: 16.2MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FileDL code: 097887</br>
+<br>- FileDL code: 289241</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Optimize TV layout.</br>
+<br>- Tweak movie detail on TV.</br>
 <br>- Fix auto play feature.</br>
-<br>- Fix openload link.</br>
-<br>- Fix opensubtitle download.</br>
-<br>- Add 10 link providers.</br>
-<br>- Fix bug crash on Amazon Fire TV.</br>",  
-"update_build":"31",  
-"update_version":"2.2.3",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.3/BeeTV_v2.2.3.apk",  
-"update_link_android4":"https://archive.org/download/BeeTVV2.2.3_201905/BeeTV_v2.2.3.apk",
+<br>- Add episode list in player.</br>
+<br>- Add 8 fast link providers.</br>",  
+"update_build":"32",  
+"update_version":"2.2.4",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.4/BeeTV_v2.2.4.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/2alx4kstgqiu1xi/BeeTV_v2.2.4.apk",
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
