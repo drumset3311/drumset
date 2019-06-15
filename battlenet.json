@@ -13,20 +13,20 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.2.4</br>
-<br>- Size: 16.2MB</br>
+<br>- Version: 2.2.5</br>
+<br>- Size: 16.6MB</br>
 <br>- Filelinked code: 30837432</br>
 <br>- FileDL code: 289241</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Tweak movie detail on TV.</br>
-<br>- Fix auto play feature.</br>
-<br>- Add episode list in player.</br>
-<br>- Add 8 fast link providers.</br>",  
-"update_build":"32",  
-"update_version":"2.2.4",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.4/BeeTV_v2.2.4.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/2alx4kstgqiu1xi/BeeTV_v2.2.4.apk",
+<br>- Add cast and crew photo in detail movies.</br>
+<br>- Add 3 link providers.</br>
+<br>- Optimize openload links.</br>
+<br>- Fix subscene.</br>",  
+"update_build":"33",  
+"update_version":"2.2.5",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.5/BeeTV_v2.2.5.apk",  
+"update_link_android4":"https://archive.org/download/BeeTVV2.2.5/BeeTV_v2.2.5.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
