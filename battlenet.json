@@ -13,20 +13,19 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.2.5</br>
-<br>- Size: 16.6MB</br>
+<br>- Version: 2.2.6</br>
+<br>- Size: 16.5MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FileDL code: 216601</br>
+<br>- FileDL code: 987803</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add cast and crew photo in detail movies.</br>
-<br>- Add 3 link providers.</br>
-<br>- Optimize openload links.</br>
-<br>- Fix subscene.</br>",  
-"update_build":"34",  
-"update_version":"2.2.5",  
+<br>- Add premiumize support.</br>
+<br>- Fix some link providers.</br>
+<br>- Fix bug on some Android 9 devices.</br>",  
+"update_build":"35",  
+"update_version":"2.2.6",  
 "update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.5/BeeTV_v2.2.5.apk",  
-"update_link_android4":"https://archive.org/download/BeeTVV2.2.5_20190615_1653/BeeTV_v2.2.5.apk",
+"update_link_android4":"https://dl.dropboxusercontent.com/s/b8w3bxm6kn5kd39/BeeTV_v2.2.6.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
