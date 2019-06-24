@@ -1,8 +1,8 @@
 {
-"survey_title": "BeeTV on Facebook",  
-"survey_content": "Visit our fanpage facebook to receive the latest news and customer support",  
-"survey_type": "Visit",  
-"survey_link": "https://www.facebook.com/beetvmovies/",  
+"survey_title": "",  
+"survey_content": "",  
+"survey_type": "",  
+"survey_link": "",  
 "left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
 "content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
