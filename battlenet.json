@@ -13,19 +13,20 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.2.8</br>
-<br>- Size: 16.5MB</br>
+<br>- Version: 2.2.9</br>
+<br>- Size: 17MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FileDL code: 500872</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add Hindi movies tab.</br>
-<br>- Add movie release status.</br>
-<br>- Add new tv shows notification on Amazon Fire TV.</br>",  
-"update_build":"37",  
-"update_version":"2.2.8",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.8/BeeTV_v2.2.8.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/liomeiax6vawqfb/BeeTV_v2.2.8.apk",
+<br>- Add option to choose subtitle color.</br>
+<br>- Add 5 link providers.</br>
+<br>- Add option to choose watchlist, calendar and collection as default screen.</br>
+<br>- Amazon Firestick, FireTV now can use menu button to add movie to watchlist.</br>
+<br>- Fix text color and focus color on some devices.</br>",  
+"update_build":"38",  
+"update_version":"2.2.9",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.9/BeeTV_v2.2.9.apk",  
+"update_link_android4":"https://archive.org/download/beetvv2.2.9/BeeTV_v2.2.9.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
