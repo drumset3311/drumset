@@ -23,10 +23,10 @@
 <br>- Add option to choose watchlist, calendar and collection as default screen.</br>
 <br>- Amazon Firestick, FireTV now can use menu button to add movie to watchlist.</br>
 <br>- Fix text color and focus color on some devices.</br>",  
-"update_build":"38",  
+"update_build":"39",  
 "update_version":"2.2.9",  
 "update_link":"https://github.com/beetvapk/beetv/releases/download/2.2.9/BeeTV_v2.2.9.apk",  
-"update_link_android4":"https://archive.org/download/beetvv2.2.9/BeeTV_v2.2.9.apk",
+"update_link_android4":"https://archive.org/download/beetvv2.2.9_20190809/BeeTV_v2.2.9.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
