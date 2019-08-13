@@ -30,7 +30,7 @@
 "update_link_android4":"https://dl.dropboxusercontent.com/s/eeu4mdpffho3h8z/BeeTV_v2.3.0.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
-"http_config":"http",
+"http_config":"https",
 "ads_priority":"amazon",
 "enable_install_player":true,
 "title_player":"One Player",
