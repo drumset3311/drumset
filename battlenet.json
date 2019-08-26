@@ -22,7 +22,7 @@
 <br><b>Change logs</b></br>
 <br>- Add lite mode. If you cant connect to server, please choose lite mode.</br>
 <br>- Fix bugs and optimize.</br>",  
-"update_build":"40",  
+"update_build":"39",  
 "update_version":"2.3.1",  
 "update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.1/BeeTV_v2.3.1.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/5covkdocelj02ov/BeeTV_v2.3.1.apk",
