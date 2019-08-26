@@ -14,21 +14,17 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.3.0</br>
-<br>- Size: 16.8MB</br>
+<br>- Version: 2.3.1</br>
+<br>- Size: 15.8MB</br>
 <br>- Filelinked code: 30837432</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix emergency bug app not loading.</br>
-<br>- Add option to choose subtitle color.</br>
-<br>- Add 5 link providers.</br>
-<br>- Add option to choose watchlist, calendar and collection as default screen.</br>
-<br>- Amazon Firestick, FireTV now can use menu button to add movie to watchlist.</br>
-<br>- Fix text color and focus color on some devices.</br>",  
-"update_build":"39",  
-"update_version":"2.3.0",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.0/BeeTV_v2.3.0.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/eeu4mdpffho3h8z/BeeTV_v2.3.0.apk",
+<br>- Add lite mode. If you cant connect to server, please choose lite mode.</br>
+<br>- Fix bugs and optimize.</br>",  
+"update_build":"40",  
+"update_version":"2.3.1",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.1/BeeTV_v2.3.1.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/90she1nefbtg02l/BeeTV_v2.3.1.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
