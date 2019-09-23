@@ -23,7 +23,7 @@
 <br>- Fix HBO, Netflix, etc. in Editor's Choice.</br>
 <br>- Fix auto update in Android 10.</br>",  
 "update_build":"44",  
-"update_version":"2.3.4",  
+"update_version":"2.3.3",  
 "update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.3/BeeTV_v2.3.3.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/889al5b452otkhm/BeeTV_v2.3.3.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
