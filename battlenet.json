@@ -14,18 +14,17 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.3.3</br>
+<br>- Version: 2.3.4</br>
 <br>- Size: 15.6MB</br>
 <br>- Filelinked code: 30837432</br>
 <br>- FireDL code: 843625</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix HBO, Netflix, etc. in Editor's Choice.</br>
-<br>- Fix auto update in Android 10.</br>",  
-"update_build":"44",  
-"update_version":"2.3.3",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.3/BeeTV_v2.3.3.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/889al5b452otkhm/BeeTV_v2.3.3.apk",
+<br>- Fix HD Release and Hindi section.</br>",  
+"update_build":"45",  
+"update_version":"2.3.4",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.4/BeeTV_v2.3.4.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/2ob48k4h87m6con/BeeTV_v2.3.4.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
