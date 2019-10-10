@@ -11,21 +11,20 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
-<br></br>
-<b>Release Info</b>
-<br>- Version: 2.3.4</br>
+"update_content":"<b>Release Info</b>
+<br>- Version: 1.0.1</br>
 <br>- Size: 15.6MB</br>
-<br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 509803</br>
+<br>- Filelinked code: 60060270</br>
+<br>- FireDL code: 488343</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix HD Release and Hindi section.</br>",  
-"update_build":"1",  
-"update_version":"1.0.0",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.4/BeeTV_v2.3.4.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/2ob48k4h87m6con/BeeTV_v2.3.4.apk",
-"pkg_uninstall":"me.beetv.movieguide",  
+<br>- Add pull to refresh feature on phone.</br>
+<br>- Fix watchlist not show.</br>",  
+"update_build":"2",  
+"update_version":"1.0.1",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.0.1/NovaTV_v1.0.1.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/v63ubhgnyo5sh8l/NovaTV_v1.0.1.apk",
+"pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
 "enable_install_player":true,
