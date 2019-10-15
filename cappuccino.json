@@ -8,23 +8,25 @@
 "content_not_support_audio":"This movie has audio which is not supported by NovaTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/VLC3.0.13_201903/VLC_3.0.13.apk",  
-"update_isforce":false,  
+"update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.0.3</br>
-<br>- Size: 15.9MB</br>
+<br>- Version: 1.0.4</br>
+<br>- Size: 15.2MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 621670</br>
+<br>- FireDL code: 400300</br>
 <br></br>
 <br><b>Change logs</b></br>
+<br>- Remove Adware. User can check on VirusTotal website.</br>
+<br>- Add 10 HQ link providers.</br>
 <br>- Fix collection showing right content.</br>
-<br>- Fix bug crash.</br>
+<br>- Fix bug crash on some devices.</br>
 <br>- Add movie rating on collection list.</br>",  
-"update_build":"3",  
-"update_version":"1.0.3",  
-"update_link":"https://github.com/novaapk/novatv/releases/download/1.0.3/NovaTV_v1.0.3.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/qbs34hgnnvdwr7e/NovaTV_v1.0.3.apk",
+"update_build":"5",  
+"update_version":"1.0.4",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.0.4/NovaTV_v1.0.4.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/8garuv5h8xmxdfd/NovaTV_v1.0.4.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
