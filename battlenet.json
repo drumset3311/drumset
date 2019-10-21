@@ -14,16 +14,16 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.3.4</br>
+<br>- Version: 2.3.5</br>
 <br>- Size: 15.6MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 509803</br>
+<br>- FireDL code: 619878</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix HD Release and Hindi section.</br>",  
-"update_build":"45",  
-"update_version":"2.3.4",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.4/BeeTV_v2.3.4.apk",  
+<br>- Fix bug editors'choice lists not showing full content.</br>",  
+"update_build":"46",  
+"update_version":"2.3.5",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.5/BeeTV_v2.3.5.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/2ob48k4h87m6con/BeeTV_v2.3.4.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
@@ -33,7 +33,7 @@
 "enable_install_player":true,
 "title_player":"One Player",
 "description_player":"Best player to work with BeeTV. Less ads and better streaming!",
-"link_download_player":"https://dl.dropboxusercontent.com/s/lx1m5jm1wbvnvw2/OnePlayer_v1.0.8r.apk",
+"link_download_player":"https://dl.dropboxusercontent.com/s/vq2ha5vwp286nzc/BeeTV_v2.3.5.apk",
 "package_name_player":"com.one.player",
 "enable_amz":true,
 "oneplayer_version_build":"9",
