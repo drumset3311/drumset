@@ -12,17 +12,17 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.0.5</br>
+<br>- Version: 1.0.6</br>
 <br>- Size: 15.2MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 872714</br>
+<br>- FireDL code: 162057</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix crash bug on FireTV devices.</br>",  
-"update_build":"6",  
-"update_version":"1.0.5",  
-"update_link":"https://github.com/novaapk/novatv/releases/download/1.0.5/NovaTV_v1.0.5.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/zqu4b5tn0iucm8u/NovaTV_v1.0.5.apk",
+"update_build":"7",  
+"update_version":"1.0.6",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.0.6/NovaTV_v1.0.6.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/skqi2ugbtl2ii2q/NovaTV_v1.0.6.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
