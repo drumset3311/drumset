@@ -28,6 +28,7 @@
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
+"gg_analytics_key":"",  
 "ads_priority":"amazon",
 "enable_install_player":true,
 "title_player":"One Player",
