@@ -7,22 +7,23 @@
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by NovaTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
-"link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
+"link_not_audio":"https://archive.org/download/vlc321/vlc321.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.0.6</br>
+<br>- Version: 1.0.7</br>
 <br>- Size: 15.2MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 162057</br>
+<br>- FireDL code: 795243</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix crash bug on FireTV devices.</br>",  
-"update_build":"7",  
-"update_version":"1.0.6",  
-"update_link":"https://github.com/novaapk/novatv/releases/download/1.0.6/NovaTV_v1.0.6.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/skqi2ugbtl2ii2q/NovaTV_v1.0.6.apk",
+<br>- Add Alldebrid support.</br>
+<br>- Fix crash on some devices.</br>",  
+"update_build":"8",  
+"update_version":"1.0.7",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.0.7/NovaTV_v1.0.7.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/574e0akbh33emi9/NovaTV_v1.0.7.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
