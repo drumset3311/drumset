@@ -14,20 +14,20 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.3.6</br>
-<br>- Size: 15.6MB</br>
+<br>- Version: 2.3.7</br>
+<br>- Size: 15MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 210589</br>
+<br>- FireDL code: 540243</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add Alldebrid integration.</br>
-<br>- Fix crash bug on Amazon FireTV.</br>
-<br>- Add option to show Hindi content in setting.</br>
-<br>- Fix HD Release not show full content.</br>",  
-"update_build":"47",  
-"update_version":"2.3.6",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.6/BeeTV_v2.3.6.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/2ob48k4h87m6con/BeeTV_v2.3.4.apk",
+<br>- Support onlystream, vidtodo, mixdrop.</br>
+<br>- Add 8 link providers.</br>
+<br>- Fix crash on some devices.</br>
+<br>- Fix link not ready on some cases.</br>",  
+"update_build":"48",  
+"update_version":"2.3.7",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.3.7/BeeTV_v2.3.7.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/zwyjn5lx48xetqj/BeeTV_v2.3.7.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
