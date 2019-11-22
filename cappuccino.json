@@ -12,18 +12,18 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.0.9</br>
-<br>- Size: 15.2MB</br>
+<br>- Version: 1.1.0</br>
+<br>- Size: 15MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 974337</br>
+<br>- FireDL code: 052279</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add 5 link providers.</br>
-<br>- Add option to install VLC for DTS audio movies.</br>",  
-"update_build":"10",  
-"update_version":"1.0.9",  
-"update_link":"https://github.com/novaapk/novatv/releases/download/1.0.9/NovaTV_v1.0.9.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/satgdzuycnsnf8y/NovaTV_v1.0.9.apk",
+<br>- Add more links and fix bugs.</br>
+<br>- Fix link not ready.</br>",  
+"update_build":"11",  
+"update_version":"1.1.0",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.0/NovaTV_v1.1.0.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/24gt18914ghnod7/NovaTV_v1.1.0.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
