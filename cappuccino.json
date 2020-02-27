@@ -8,22 +8,22 @@
 "content_not_support_audio":"This movie has audio which is not supported by NovaTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/vlc321/vlc321.apk",  
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.1.1</br>
-<br>- Size: 15MB</br>
+<br>- Version: 1.1.2</br>
+<br>- Size: 15.3MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 962093</br>
+<br>- FireDL code: 953578</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add more links and fix bugs.</br>
 <br>- Fix link not ready.</br>",  
-"update_build":"12",  
-"update_version":"1.1.1",  
-"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.1/NovaTV_v1.1.1.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/t0mu2ttqkk3pdnf/NovaTV_v1.1.1.apk",
+"update_build":"13",  
+"update_version":"1.1.2",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.2/NovaTV_v1.1.2.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/opz8a1bbm9u9jn2/NovaTV_v1.1.2.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
@@ -43,7 +43,9 @@
 "banner_text":"",
 "amz_key":"9f3c29fbf5bd463195dc7bba84c04737",
 "priorirty_custom_ads":false,
-"site_cookie":"https://onlystream.tv, https://vidto-do.com, https://www5.123movies.ag, https://www4.watchfree.ac, https://m4ufree.tv, https://www12.123moviesfree.com, https://hdmo.tv",
+"site_cookie":"https://afdah.info/embed/, https://www5.123movies.ag, https://www4.watchfree.ac, https://m4ufree.tv, https://www12.123moviesfree.com, https://hdmo.tv, https://vidtodo.com",
 "collection_movie":"eyJpbmZvIjogWyB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyNjUzMSwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIk5ldGZsaXggT3JpZ2luYWwgTW92aWVzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDkyNTg4LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiV1dFICYgVUZDIFBQViIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMTU2NjUsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJIaW5kaSIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjI1OTIsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJOZXcgSEQgUmVsZWFzZXMiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTI2NDY0LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiVGhlIDEwMCUgQ2x1YiBDZXJ0aWZpZWQgRnJlc2ggTW92aWVzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyNTk0OCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIlRoZSA1MCBIaWdoZXN0LUdyb3NzaW5nIE1vdmllcyBPZiBBbGwgVGltZSIgfV0gfQk=",
+"mixdrop_config":"Cgp2YXIgaW50ZXJ2YWw7CnZhciBjb3VudCA9IDA7CgoKZ2V0Q29kZU1peERyb3AgPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGEsIDMwMCk7Cn0KCmdldERhdGEgPSAoKSA9PiB7CiAgICB2YXIgY29kZSA9IE1EQ29yZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlLnd1cmwgIT09IG51bGwgJiYgY29kZS53dXJsLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlLnd1cmwpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQoKfQ==",
+"mixdrop_domain":"mixdrop.co",
 "collection_tvshows":"eyJpbmZvIjogWyB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDgyMSwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkFCQyBTaG93cyIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjA4MTQsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJBTUMgU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwNzU3LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiTmV0ZmxpeCBTaG93cyIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjA3NTksICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJIQk8gU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwODEyLCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiQ1cgU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwNzYwLCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiQW1hem9uIFNob3dzIiB9LHsgImlkIjogIiIsICJsaXN0X2lkIjogMTI2NTMwLCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiVGhlIEJlc3QgVFYgU2hvd3Mgb2YgMjAxOSIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjA4MjAsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJGWCBTaG93cyIgfV0gfQk="
 }
