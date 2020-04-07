@@ -1,8 +1,8 @@
 {
-"survey_title": "NovaTV Fanpage Facebook",  
-"survey_content": "Visit our Facebook Fanpage to receive the latest news and customer support	",  
-"survey_type": "Visit",  
-"survey_link": "https://www.facebook.com/novatvapp",  
+"survey_title": "",  
+"survey_content": "",  
+"survey_type": "",  
+"survey_link": "",  
 "left_menu_image":"https://i.imgur.com/7BIRu4g.png",  
 "lite_mode":false,
 "content_not_support_audio":"This movie has audio which is not supported by NovaTV, please install VLC player to play audio.",  
@@ -12,18 +12,18 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.1.5</br>
-<br>- Size: 15.1MB</br>
+<br>- Version: 1.1.6</br>
+<br>- Size: 15.5MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 016352</br>
+<br>- FireDL code: 990616</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add more links and fix bugs.</br>
 <br>- Fix opensubtitle.</br>",  
-"update_build":"16",  
-"update_version":"1.1.5",  
-"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.5/NovaTV_v1.1.5.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/jr550zjkqur7152/NovaTV_v1.1.5.apk",
+"update_build":"17",  
+"update_version":"1.1.6",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.6/NovaTV_v1.1.6.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/25ucqs24fhfp89n/NovaTV_v1.1.6.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
