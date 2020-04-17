@@ -35,7 +35,7 @@
 "text_link":"https://go.onelink.me/app/nordvpnbeapp1",
 "text_content":"Use NordVPN for fast and secured streaming on BeeTV",
 "text_title":"Tired of slow and unsecure streaming?",
-"text_type":"link",
+"text_type":"hide",
 "text_id":"71446",
 "enable_cms":"0",
 "enable_install_player":true,
