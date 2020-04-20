@@ -39,6 +39,7 @@
 "openload_domain":"https://openload.co",
 "custom_fullads_photo":"https://i.imgur.com/wBUBzFh.png",
 "custom_fullads_link":"https://amzn.to/3bz6TCd",
+"custom_fullads_gif":false,
 "custom_fullads_enable":true,
 "is_banner_auto":false,
 "banner_photo":"",
