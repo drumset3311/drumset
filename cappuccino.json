@@ -12,18 +12,18 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.1.6</br>
-<br>- Size: 15.5MB</br>
+<br>- Version: 1.1.7</br>
+<br>- Size: 15.6MB</br>
 <br>- Filelinked code: 60060270</br>
 <br>- FireDL code: 990616</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add more links and fix bugs.</br>
-<br>- Fix opensubtitle.</br>",  
-"update_build":"17",  
-"update_version":"1.1.6",  
-"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.6/NovaTV_v1.1.6.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/25ucqs24fhfp89n/NovaTV_v1.1.6.apk",
+<br>- Fix Google cast.</br>
+<br>- Add more links.</br>",  
+"update_build":"18",  
+"update_version":"1.1.7",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.7/NovaTV_v1.1.7.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/527ouncjrig6qit/NovaTV_v1.1.7.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
