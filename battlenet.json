@@ -14,18 +14,18 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.4.4</br>
+<br>- Version: 2.4.5</br>
 <br>- Size: 15.8MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 222942</br>
+<br>- FireDL code: 551622</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix Google cast.</br>
+<br>- Fix Alldebrid.</br>
 <br>- Fix bugs and optimize.</br>",  
-"update_build":"55",  
-"update_version":"2.4.4",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.4.4/BeeTV_v2.4.4.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/zxgvvdhfvqp63as/BeeTV_v2.4.4.apk",
+"update_build":"56",  
+"update_version":"2.4.5",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.4.5/BeeTV_v2.4.5.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/yslvnl2e4pwwpgw/BeeTV_v2.4.5.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
