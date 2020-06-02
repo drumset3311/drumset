@@ -27,6 +27,7 @@
 "update_link":"https://github.com/beetvapk/beetv/releases/download/2.4.6/2.4.6.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/0q0r6jm4hlezk8z/2.4.6.apk",
 "pkg_uninstall":"me.beetv.movieguide",  
+"pkg_uninstall_247":"com.battlenet.showguide",
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
 "gg_analytics_key":"UA-130029478-6",  
