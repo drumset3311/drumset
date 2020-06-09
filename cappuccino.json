@@ -12,20 +12,18 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.1.8</br>
+<br>- Version: 1.1.9</br>
 <br>- Size: 15.6MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 990616</br>
+<br>- FireDL code: 164206</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix crash on FireTV.</br>
-<br>- Fix UI in TV.</br>
-<br>- Fix Google cast.</br>
-<br>- Add more links.</br>",  
-"update_build":"19",  
-"update_version":"1.1.8",  
-"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.8/NovaTV_v1.1.8.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/i9x6kuug2p7dtrp/NovaTV_v1.1.8.apk",
+<br>- Optimize UI.</br>
+<br>- Add more link providers.</br>",  
+"update_build":"20",  
+"update_version":"1.1.9",  
+"update_link":"https://github.com/novaapk/novatv/releases/download/1.1.9/1.1.9.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/04g53f4txcvusxp/1.1.9.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
