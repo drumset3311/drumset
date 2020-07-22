@@ -14,17 +14,17 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.4.7</br>
-<br>- Size: 15.8MB</br>
+<br>- Version: 2.4.8</br>
+<br>- Size: 15.5MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 215373</br>
+<br>- FireDL code: 388597</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add audio cast to google home.</br>
-<br>- Add more link providers.</br>",  
-"update_build":"58",  
-"update_version":"2.4.7",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.4.7/2.4.7.apk",  
+<br>- Add cast and crew for phone.</br>
+<br>- Add support for abcvideo.</br>",  
+"update_build":"59",  
+"update_version":"2.4.8",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.4.8/2.4.8.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/pnbclxnamhnum4j/2.4.7.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
