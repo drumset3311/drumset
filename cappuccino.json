@@ -12,18 +12,18 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.2.1</br>
+<br>- Version: 1.2.2</br>
 <br>- Size: 15.7MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 735324</br>
+<br>- FireDL code: 907092</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add support for abcvideo, supervideo link.</br>
-<br>- Add more link providers.</br>",  
-"update_build":"22",  
-"update_version":"1.2.1",  
-"update_link":"https://github.com/novaapk/godblessamerica/releases/download/1.2.1/1.2.1.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/1jj8qcl6gxyfr9t/1.2.1.apk",
+<br>- Hide porn content.</br>
+<br>- Bug fix.</br>",  
+"update_build":"23",  
+"update_version":"1.2.2",  
+"update_link":"https://github.com/novaapk/godblessamerica/releases/download/1.2.2/1.2.2.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/9ky4ibkksnuth8z/1.2.2.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
