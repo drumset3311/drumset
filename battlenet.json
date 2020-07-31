@@ -53,6 +53,7 @@
 "link_download_player":"https://github.com/novaapk/godblessamerica/releases/download/abc/OnePlayer_v1.1.1r.apk",
 "package_name_player":"com.one.player",
 "enable_amz":true,
+"adoech_enable":false,
 "oneplayer_version_build":"12",
 "openload_key":"DtsBlkVFQx",
 "ogury_enable":false,
