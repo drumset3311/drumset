@@ -14,17 +14,17 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.5.0</br>
+<br>- Version: 2.5.1</br>
 <br>- Size: 17.3MB</br>
 <br>- Filelinked code: 30837432</br>
 <br>- FireDL code: 161654</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix bugs.</br>",  
-"update_build":"60",  
-"update_version":"2.5.0",  
-"update_link":"https://github.com/beetvapk/beetv/releases/download/2.5.0/2.5.0.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/ben13jnmydg3geg/2.5.0.apk",
+"update_build":"62",  
+"update_version":"2.5.1",  
+"update_link":"https://github.com/beetvapk/beetv/releases/download/2.5.1/2.5.1.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/koze39aiimzmsyd/2.5.1.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
 "pkg_uninstall_content":"Please uninstall old version",
