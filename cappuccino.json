@@ -12,17 +12,18 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.2.3</br>
+<br>- Version: 1.2.4</br>
 <br>- Size: 16.3MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 712704</br>
+<br>- FireDL code: 219048</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Bug fix.</br>",  
-"update_build":"24",  
-"update_version":"1.2.3",  
-"update_link":"https://github.com/novaapk/godblessamerica/releases/download/1.2.3/1.2.3.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/7svzs34mpnzydh4/1.2.3.apk",
+<br>- Add option to delete watchlist item.</br>
+<br>- Fix bug crash on Android TV and Firestick.</br>",  
+"update_build":"25",  
+"update_version":"1.2.4",  
+"update_link":"https://github.com/BeeApp11/tententen/releases/download/1.2.4r/1.2.4.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/nlzz4olckibg76h/1.2.4.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
