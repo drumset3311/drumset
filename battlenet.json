@@ -14,19 +14,19 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.5.3</br>
+<br>- Version: 2.5.4</br>
 <br>- Size: 16.2MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 336521</br>
+<br>- FireDL code: 004523</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add option to delete watchlist, collection.</br>
 <br>- Fix crash for Real-debrid user.</br>
 <br>- Add 5 link providers.</br>",  
-"update_build":"64",  
-"update_version":"2.5.3",  
-"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.3/2.5.3.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/j31lpje0al8u8z9/2.5.3.apk",
+"update_build":"65",  
+"update_version":"2.5.4",  
+"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.4/2.5.4.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/ipz9iq30vhsjxqb/2.5.4.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
 "pkg_uninstall_content":"Please uninstall old version",
