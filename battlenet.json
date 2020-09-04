@@ -14,19 +14,19 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.5.4</br>
+<br>- Version: 2.5.5</br>
 <br>- Size: 16.2MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 004523</br>
+<br>- FireDL code: 341334</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add option to delete watchlist, collection.</br>
 <br>- Fix crash for Real-debrid user.</br>
 <br>- Add 5 link providers.</br>",  
-"update_build":"64",  
-"update_version":"2.5.4",  
-"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.4/2.5.4.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/ipz9iq30vhsjxqb/2.5.4.apk",
+"update_build":"66",  
+"update_version":"2.5.5",  
+"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.5/2.5.5.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/yka5t3tbhlm56lw/2.5.5.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
 "pkg_uninstall_content":"Please uninstall old version",
@@ -35,18 +35,18 @@
 "tmdb_key":"833b8b6985eae013e96a655bc39ae20d",
 "ads_priority":"amazon",
 "text_link":"https://play.google.com/store/apps/details?id=com.busydev.onesaver",
-"text_content":"Download Video on Instagram, Tiktok, Facebook",
-"text_title":"Sponsored App",
-"text_type":"hide",
-"text_id":"71446",
+"text_content":"The Boys Season 2",
+"text_title":"Trending TV Shows",
+"text_type":"tv",
+"text_id":"76479",
 "custom_fullads_photo":"https://affiliategroove.com/accounts/default1/banners/2f9bee50.gif",
 "custom_fullads_link":"https://www.ipvanish.com/?a_bid=48f95966&a_aid=5e9812c56892f",
 "custom_fullads_gif":false,
 "custom_fullads_enable":false,
 "menu_text_tv":"",
 "menu_link_tv":"",
-"menu_link_phone":"https://play.google.com/store/apps/details?id=com.one.downloader",
-"menu_text_phone":"Download movies on BeeTV",
+"menu_link_phone":"",
+"menu_text_phone":"",
 "enable_cms":"0",
 "show_ads":"1",
 "enable_install_player":true,
