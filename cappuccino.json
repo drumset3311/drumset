@@ -12,18 +12,19 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.2.6</br>
+<br>- Version: 1.2.7</br>
 <br>- Size: 16.8MB</br>
 <br>- Filelinked code: 60060270</br>
-<br>- FireDL code: 526478</br>
+<br>- FireDL code: 720107</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add option to delete history, collection item.</br>
-<br>- Add yellow color for subtitle.</br>",  
-"update_build":"27",  
-"update_version":"1.2.6",  
-"update_link":"https://github.com/novaapk/godblessamerica/releases/download/1.2.6/1.2.6.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/cfnkchruqbg7o8v/1.2.6.apk",
+<br>- Add 3 link providers.</br>
+<br>- Remove provider that has adware.</br>",  
+"update_build":"28",  
+"update_version":"1.2.7",  
+"update_link":"https://github.com/novaapk/godblessamerica/releases/download/1.2.7/1.2.7.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/ksd45mt0l7iagwi/1.2.7.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_1_2_5":"com.nova.tv", 
 "pkg_uninstall_content":"Please uninstall old version",
