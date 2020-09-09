@@ -1,7 +1,7 @@
 {
 "update_type": "gp",  
-"update_build": "7",  
-"update_link": "https://dl.dropboxusercontent.com/s/r3yifyqttx4gt84/OnePlayer_v1.0.6r.apk",  
+"update_build": "15",  
+"update_link": "https://github.com/BeeApp11/tententen/releases/download/1.1.4r/oneplayer_release_1014.apk",  
 "update_content": "Please update One Player for better experience",  
 "update_title":"Update new version",  
 "update_force": true
