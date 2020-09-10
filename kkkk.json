@@ -1,7 +1,7 @@
 {
 "update_type": "gp",  
 "update_build": "16",  
-"update_link": "https://github.com/novaapk/hello-world/releases/download/a5/oneplayer_v1.1.5r.apk",  
+"update_link": "https://dl.dropboxusercontent.com/s/deu8awun371pusl/oneplayer_v1.1.5r.apk",  
 "update_content": "Please update One Player for better experience",  
 "update_title":"Update new version",  
 "update_force": true
