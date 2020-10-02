@@ -14,18 +14,19 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.5.6</br>
+<br>- Version: 2.5.7</br>
 <br>- Size: 16.2MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 341334</br>
+<br>- FireDL code: 822223</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Fix bugs.</br>
-<br>- Add 7 link providers.</br>",  
-"update_build":"67",  
-"update_version":"2.5.6",  
-"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.6/2.5.6.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/u0vhie8evgef3nd/2.5.6.apk",
+<br>- Tweak layout, add green bar for watchlist and yellow bar for watched.</br>
+<br>- Add 7 link providers.</br>
+<br>- Fix bugs.</br>",  
+"update_build":"68",  
+"update_version":"2.5.7",  
+"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.7/2.5.7.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/m7a69fqd43ua5yp/2.5.7.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
 "pkg_uninstall_257":"com.battlenet.showguide",
