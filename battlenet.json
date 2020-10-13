@@ -23,10 +23,10 @@
 <br>- Optimize link and UI.</br>
 <br>- Add 5 link providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"68",  
+"update_build":"69",  
 "update_version":"2.5.8",  
-"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.8/2.5.8.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/0zcxa3mdb4avp02/2.5.8.apk",
+"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.8b2/2.5.8b2.apk",  
+"update_link_android4":"https://archive.org/download/2.5.8b-2/2.5.8b2.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
 "pkg_uninstall_257":"com.battlenet.showguide",
