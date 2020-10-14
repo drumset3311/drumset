@@ -14,19 +14,20 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.5.8</br>
+<br>- Version: 2.5.9</br>
 <br>- Size: 16.4MB</br>
 <br>- Filelinked code: 30837432</br>
 <br>- FireDL code: 498189</br>
 <br></br>
 <br><b>Change logs</b></br>
+<br>- Fix crash on Amazon devices.</br>
 <br>- Optimize link and UI.</br>
 <br>- Add 5 link providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"68",  
-"update_version":"2.5.8",  
-"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.8b2/2.5.8b2.apk",  
-"update_link_android4":"https://archive.org/download/2.5.8b-2/2.5.8b2.apk",
+"update_build":"70",  
+"update_version":"2.5.9",  
+"update_link":"https://github.com/BeeApp11/RA2/releases/download/2.5.9/2.5.9.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/sqmhl44b7hmfh3z/2.5.9.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
 "pkg_uninstall_257":"com.battlenet.showguide",
