@@ -30,6 +30,7 @@
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
 "enable_cms":"0",  
+"zma_key":"9f3c29fbf5bd463195dc7bba84c04737",
 "enable_install_player":true,
 "title_player":"One Player",
 "description_player":"Best player to work with NovaTV. Less ads and better streaming!",
