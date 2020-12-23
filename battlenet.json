@@ -62,7 +62,7 @@
 "ecpm_floor_mz":"0",
 "ogury_enable":false,
 "enable_pokkt":false,
-"enable_admob":true,
+"enable_admob":false,
 "op_user_agent":"novaapp 1.0.0",
 "ogr_key":"OGY-2EE43D260DB3",
 "openload_domain":"https://openload.co",
