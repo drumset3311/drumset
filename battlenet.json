@@ -22,9 +22,9 @@
 <br><b>Change logs</b></br>
 <br>- Add 4 link providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"74",  
-"update_version":"2.6.3",  
-"update_link":"https://github.com/lunadev-cmkh/ken/releases/download/2.6.3/2.6.3.apk",  
+"update_build":"75",  
+"update_version":"2.6.4",  
+"update_link":"https://github.com/lunadev-cmkh/ken/releases/download/2.6.4/2.6.4.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/sqmhl44b7hmfh3z/2.5.9.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
