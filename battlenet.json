@@ -14,17 +14,17 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.6.4</br>
-<br>- Size: 20.2MB</br>
+<br>- Version: 2.6.5</br>
+<br>- Size: 18.2MB</br>
 <br>- Filelinked code: 30837432</br>
-<br>- FireDL code: 701494</br>
+<br>- FireDL code: 341833</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add 4 link providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"74",  
-"update_version":"2.6.4",  
-"update_link":"https://github.com/lunadev-cmkh/ken/releases/download/2.6.4/2.6.4.apk",  
+"update_build":"76",  
+"update_version":"2.6.5",  
+"update_link":"https://github.com/lunadev-cmkh/ken/releases/download/2.6.5/2.6.5.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/sqmhl44b7hmfh3z/2.5.9.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
