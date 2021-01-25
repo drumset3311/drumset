@@ -12,16 +12,17 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.3.5b</br>
+<br>- Version: 1.3.6b</br>
 <br>- Size: 19.7MB</br>
 <br>- Filelinked code: 60060270</br>
 <br>- FireDL code: 689608</br>
 <br></br>
 <br><b>Change logs</b></br>
+<br>- Add bunch of link providers.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"36",  
-"update_version":"1.3.5b",  
-"update_link":"https://github.com/samtvapk/MassachusettBoys/releases/download/1.3.5b/1.3.5b.apk",  
+"update_build":"37",  
+"update_version":"1.3.6b",  
+"update_link":"https://github.com/samtvapk/MassachusettBoys/releases/download/1.3.6b/1.3.6b.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/d6gmze2c9ngphka/1.3.2.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_1_2_5":"com.nova.tv", 
@@ -33,7 +34,7 @@
 "zma_key":"9f3c29fbf5bd463195dc7bba84c04737",
 "zma_key_134":"bff8021413c64d1eb9f3f9ef6743ecf2",
 "enable_install_player":true,
-"enable_force_player":false,
+"enable_force_player":true,
 "title_player":"Lithium Player",
 "description_player":"Best player to work with NovaTV. Less ads and better streaming!",
 "link_download_player":"https://github.com/aquafina-pixel/s20ultra/releases/download/1.0.5r/1.0.5r.apk",
