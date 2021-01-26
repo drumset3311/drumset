@@ -14,18 +14,17 @@
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 2.6.8</br>
+<br>- Version: 2.6.9</br>
 <br>- Size: 17.9MB</br>
 <br>- Filelinked code: 30837432</br>
 <br>- FireDL code: 352381</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add 4 link providers.</br>
-<br>- Remove some ads.</br>
-<br>- Fix bugs.</br>",  
-"update_build":"79",  
-"update_version":"2.6.8",  
-"update_link":"https://github.com/lunadev-cmkh/ken/releases/download/2.6.8/2.6.8.apk",  
+<br>- Fix FBI tv shows crash.</br>",  
+"update_build":"80",  
+"update_version":"2.6.9",  
+"update_link":"https://github.com/lunadev-cmkh/destro/releases/download/2.6.9/2.6.9.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/sqmhl44b7hmfh3z/2.5.9.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "pkg_uninstall_247":"",
