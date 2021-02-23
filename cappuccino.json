@@ -12,7 +12,7 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.4.1br>
+<br>- Version: 1.4.2br>
 <br>- Size: 17.7MB</br>
 <br>- Filelinked code: 60060270</br>
 <br>- FireDL code: 565883</br>
@@ -21,9 +21,9 @@
 <br>- Add bunch of link providers.</br>
 <br>- Fix bugs.</br>
 <br>- Fix Subscene.</br>",  
-"update_build":"40",  
-"update_version":"1.4.1b",  
-"update_link":"https://github.com/samtvapk/newkg/releases/download/1.4.1b/1.4.1b.apk",  
+"update_build":"43",  
+"update_version":"1.4.2b",  
+"update_link":"https://github.com/samtvapk/newkg/releases/download/1.4.2b/1.4.2b.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/d6gmze2c9ngphka/1.3.2.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_1_2_5":"com.nova.tv", 
