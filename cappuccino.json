@@ -12,7 +12,7 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.4.3b</br>
+<br>- Version: 1.4.4b</br>
 <br>- Size: 17.7MB</br>
 <br>- Filelinked code: 60060270</br>
 <br>- FireDL code: 565883</br>
@@ -20,10 +20,10 @@
 <br><b>Change logs</b></br>
 <br>- Add bunch of link providers.</br>
 <br>- Fix bugs.</br>
-<br>- Fix Aparat link.</br>",  
-"update_build":"44",  
-"update_version":"1.4.3b",  
-"update_link":"https://github.com/samtvapk/newkg/releases/download/1.4.3b/1.4.3b.apk",  
+<br>- Fix Aparat, Clipwatching, Mixdrop link.</br>",  
+"update_build":"45",  
+"update_version":"1.4.4b",  
+"update_link":"https://github.com/samtvapk/newkg/releases/download/1.4.4b/1.4.4b.apk",  
 "update_link_android4":"https://dl.dropboxusercontent.com/s/d6gmze2c9ngphka/1.3.2.apk",
 "pkg_uninstall":"",  
 "pkg_uninstall_1_2_5":"com.nova.tv", 
